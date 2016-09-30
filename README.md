@@ -14,7 +14,7 @@ On linux you can echo the variables straight into your clipboard with `xsel` pac
 $ echo $shrug | xsel -i -b
 ```
 
-You can easily see a list of current ascii emojis within the `emojis.plugin.zsh`
+You can easily see a list of current ascii emojis within the `emojis.plugin.zsh` file.
 
 :tada: **Contributions are welcomed!** :tada:
 
