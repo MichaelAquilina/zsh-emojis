@@ -2,7 +2,7 @@
 
 # contains numerous variables for common ascii emojis
 
-export fliptablei='(╯°□°）╯︵ ┻━┻'
+export fliptable='(╯°□°）╯︵ ┻━┻'
 export lennyface='( ͡° ͜ʖ ͡°)'
 export muscleflex='ᕙ(⇀‸↼‶)ᕗ'
 export piggy='( ́・ω・`)'
