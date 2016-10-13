@@ -1,6 +1,8 @@
 #! /bin/zsh
 
 # contains numerous variables for common ascii emojis
+# Sources:
+# * http://www.emoticonfun.org/
 
 export confused='¯\_(⊙︿⊙)_/¯'
 export crying='ಥ_ಥ'
