@@ -4,9 +4,11 @@ ZSH Emojis
 Contains numerous ascii emojis stored as shell variables.
 
 ```
-$ echo $shrug
+$ echo $em_shrug
 ¯\_(ツ)_/¯
 ```
+
+All emoji variables start with `em_` to make them easily identifiable with tab-completion in your shell.
 
 On linux you can echo the variables straight into your clipboard with `xsel` package.
 
