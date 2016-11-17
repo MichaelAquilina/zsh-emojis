@@ -13,7 +13,7 @@ All emoji variables start with `em_` to make them easily identifiable with tab-c
 On linux you can echo the variables straight into your clipboard with `xsel` package.
 
 ```
-$ echo $shrug | xsel -i -b
+$ echo $em_shrug | xsel -i -b
 ```
 
 You can easily see a list of current ascii emojis within the `emojis.plugin.zsh` file.
